@@ -1,8 +1,8 @@
 # Camera-Calibration
-Download and print out a calibration "chessboard". Take 30 pictures of the board being sure to cover the entire visual eld of the camera. (Not every image need cover the field, but over the thirty, it should be covered). The following page on stackoverflow.com has
+Download and print out a calibration "chessboard". Take 30 pictures of the board being sure to cover the entire visual field of the camera. (Not every image need cover the field, but over the thirty, it should be covered). The following page on stackoverflow.com has
 an excellent description of a good way to do this:
-https://stackoverflow.com/questions/12794876/... ...how-to-verify-the-correctness-of-calibration-of-a-
-webcam/12821056#12821056
+"https://stackoverflow.com/questions/12794876/... ...how-to-verify-the-correctness-of-calibration-of-a-
+webcam/12821056#12821056"
 
 In this repository:
 The python code for calibrating the camera is named as Camera Calibration.py. The code uses at least 20 input images of a chessboard taken from different angles. These images are named as GOPR001.JPG - GOPR020.JPG.
