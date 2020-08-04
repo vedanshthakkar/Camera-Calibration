@@ -15,4 +15,4 @@ All the camera parameters obtained are saved as .npz file.
 
 These parameters act as the starting point for epipolar stereopsis. The epipolar stereopsis can be found in the repository named "Epipolar-Stereopsis".
 
-If you find any problems, please feel free to contact me at vedansh.thakkar@vanderbilt.edu
+If you find any problems, please feel free to contact me at vedansh7781@gmail.com
